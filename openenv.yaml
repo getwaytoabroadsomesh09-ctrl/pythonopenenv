@@ -1,0 +1,5 @@
+name: "OfficeTaskSim-v1"
+version: "1.0.0"
+description: "Real-world simulation of email triage and scheduling."
+entry_point: "src.environment:OfficeEnv"
+tags: ["openenv", "productivity", "automation"]
