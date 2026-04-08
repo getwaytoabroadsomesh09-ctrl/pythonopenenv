@@ -1,4 +1,3 @@
-pydantic>=2.0.0
-openai
+pydantic
 openenv
-python-dotenv
+openai
